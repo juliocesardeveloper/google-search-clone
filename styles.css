@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    display: flex;
+    height: 100vh;
+    flex-flow: column;
+}
+
+.caja {
+    background-color: gold;
+    width: 400px;
+    height: 400px;
+}
